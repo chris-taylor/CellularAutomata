@@ -3,7 +3,7 @@
 module Main where
 
 import System.Console.CmdArgs
-import Internal
+import Cellular
 
 data Cellular = Cellular { width :: Int, ruleNum :: Rule } deriving (Show,Data,Typeable)
 

@@ -1,4 +1,4 @@
-module Internal where
+module Cellular where
 
 import Control.Comonad
 
