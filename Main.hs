@@ -1,6 +1,6 @@
 {-# LANGUAGE DeriveDataTypeable #-}
 
-module Cellular where
+module Main where
 
 import System.Console.CmdArgs
 import Internal
