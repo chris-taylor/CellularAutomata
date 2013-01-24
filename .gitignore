@@ -1,0 +1,5 @@
+# ghc output
+
+*.hi
+*.exe
+*.o
