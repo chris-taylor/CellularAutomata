@@ -1,15 +1,15 @@
 ## Cellular
 
-Simple Wolfram-style one-dimensional cellular automata. Written (a bit) to show off the comonads.
+Simple Wolfram-style one-dimensional cellular automata. Written (a bit) to show off comonadic style.
 
 ## Demo
 
-    C:\Users\ctaylor\Dropbox\Projects\Cellular>ghc --make -o cell Main.hs
+    $ ghc --make -o cell Main.hs
     [1 of 2] Compiling Cellular         ( Cellular.hs, Cellular.o )
     [2 of 2] Compiling Main             ( Main.hs, Main.o )
     Linking cell.exe ...
 
-    C:\Users\ctaylor\Dropbox\Projects\Cellular>cell ---rule=90 -width=40
+    $ cell --rule=90 --width=40
 
                                             #
                                            # #
