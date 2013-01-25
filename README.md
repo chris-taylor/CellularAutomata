@@ -9,7 +9,7 @@ Simple Wolfram-style one-dimensional cellular automata. Written (a bit) to show 
     [2 of 2] Compiling Main             ( Main.hs, Main.o )
     Linking cell.exe ...
 
-    $ cell --rule=90 --width=40
+    $ ./cell --rule=90 --width=40
 
                                             #
                                            # #
